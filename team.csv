@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0039754,1,0.7491,Senior Applied Scientist with 16.2 yrs exp; technical profile alignment matches 66.3%.
+CAND_0051615,2,0.7366,Search Engineer with 4.6 yrs exp; technical profile alignment matches 63.6%.
+CAND_0018722,3,0.7313,Recommendation Systems Engineer with 6.6 yrs exp; technical profile alignment matches 62.8%.
+CAND_0002025,4,0.7273,Senior AI Engineer with 5.9 yrs exp; technical profile alignment matches 62.2%.
+CAND_0099806,5,0.7262,AI Engineer with 4.6 yrs exp; technical profile alignment matches 62.6%.
+CAND_0039383,6,0.7255,Applied ML Engineer with 7.1 yrs exp; technical profile alignment matches 60.2%.
+CAND_0077337,7,0.7254,Staff Machine Learning Engineer with 7.0 yrs exp; technical profile alignment matches 62.4%.
+CAND_0071974,8,0.7235,Senior AI Engineer with 7.8 yrs exp; technical profile alignment matches 61.8%.
+CAND_0084819,9,0.7234,Search Engineer with 4.5 yrs exp; technical profile alignment matches 62.6%.
+CAND_0079387,10,0.7215,AI Engineer with 6.9 yrs exp; technical profile alignment matches 61.9%.
+CAND_0074735,11,0.7214,Applied ML Engineer with 5.5 yrs exp; technical profile alignment matches 59.2%.
+CAND_0088025,12,0.7209,Staff Machine Learning Engineer with 8.6 yrs exp; technical profile alignment matches 60.5%.
+CAND_0014440,13,0.7208,Recommendation Systems Engineer with 6.4 yrs exp; technical profile alignment matches 63.1%.
+CAND_0041669,14,0.7207,Recommendation Systems Engineer with 8.0 yrs exp; technical profile alignment matches 61.1%.
+CAND_0055992,15,0.7198,AI Engineer with 16.9 yrs exp; technical profile alignment matches 62.4%.
+CAND_0008425,16,0.7196,Senior NLP Engineer with 7.8 yrs exp; technical profile alignment matches 67.0%.
+CAND_0046064,17,0.7192,Senior NLP Engineer with 8.9 yrs exp; technical profile alignment matches 63.2%.
+CAND_0011162,18,0.7187,Recommendation Systems Engineer with 5.8 yrs exp; technical profile alignment matches 65.2%.
+CAND_0041610,19,0.7154,Recommendation Systems Engineer with 6.7 yrs exp; technical profile alignment matches 64.7%.
+CAND_0086022,20,0.7144,Senior Applied Scientist with 5.3 yrs exp; technical profile alignment matches 63.7%.
+CAND_0010257,21,0.7139,Senior Data Scientist with 6.5 yrs exp; technical profile alignment matches 61.1%.
+CAND_0016163,22,0.7137,Applied ML Engineer with 6.7 yrs exp; technical profile alignment matches 58.7%.
+CAND_0065195,23,0.7136,Search Engineer with 5.1 yrs exp; technical profile alignment matches 61.8%.
+CAND_0018499,24,0.7129,Senior Machine Learning Engineer with 7.2 yrs exp; technical profile alignment matches 58.2%.
+CAND_0018549,25,0.7107,Recommendation Systems Engineer with 6.8 yrs exp; technical profile alignment matches 61.8%.
+CAND_0064904,26,0.7091,AI Engineer with 4.9 yrs exp; technical profile alignment matches 62.5%.
+CAND_0061265,27,0.709,Recommendation Systems Engineer with 6.6 yrs exp; technical profile alignment matches 63.7%.
+CAND_0019480,28,0.7084,NLP Engineer with 2.8 yrs exp; technical profile alignment matches 60.1%.
+CAND_0011687,29,0.7077,Senior NLP Engineer with 7.8 yrs exp; technical profile alignment matches 60.1%.
+CAND_0081846,30,0.7065,Lead AI Engineer with 6.7 yrs exp; technical profile alignment matches 61.3%.
+CAND_0055905,31,0.7054,Senior Machine Learning Engineer with 8.1 yrs exp; technical profile alignment matches 62.7%.
+CAND_0030827,32,0.7044,Senior Data Scientist with 5.4 yrs exp; technical profile alignment matches 63.2%.
+CAND_0061339,33,0.7025,Search Engineer with 4.2 yrs exp; technical profile alignment matches 59.6%.
+CAND_0024620,34,0.7022,AI Engineer with 5.9 yrs exp; technical profile alignment matches 62.6%.
+CAND_0028793,35,0.7021,Search Engineer with 7.2 yrs exp; technical profile alignment matches 58.4%.
+CAND_0081053,36,0.7016,NLP Engineer with 5.4 yrs exp; technical profile alignment matches 60.4%.
+CAND_0053591,37,0.7006,AI Engineer with 5.3 yrs exp; technical profile alignment matches 57.6%.
+CAND_0074225,38,0.7003,Machine Learning Engineer with 4.3 yrs exp; technical profile alignment matches 60.1%.
+CAND_0052682,39,0.6981,NLP Engineer with 6.6 yrs exp; technical profile alignment matches 55.1%.
+CAND_0078492,40,0.6979,Recommendation Systems Engineer with 5.1 yrs exp; technical profile alignment matches 62.8%.
+CAND_0036184,41,0.6974,Recommendation Systems Engineer with 6.0 yrs exp; technical profile alignment matches 60.7%.
+CAND_0007009,42,0.6963,Recommendation Systems Engineer with 7.9 yrs exp; technical profile alignment matches 59.4%.
+CAND_0062247,43,0.6952,AI Engineer with 7.3 yrs exp; technical profile alignment matches 60.6%.
+CAND_0092706,44,0.6952,AI Research Engineer with 5.8 yrs exp; technical profile alignment matches 58.0%.
+CAND_0017960,45,0.6949,Recommendation Systems Engineer with 7.7 yrs exp; technical profile alignment matches 62.0%.
+CAND_0049896,46,0.6945,Search Engineer with 7.3 yrs exp; technical profile alignment matches 62.1%.
+CAND_0076163,47,0.6931,NLP Engineer with 6.9 yrs exp; technical profile alignment matches 57.0%.
+CAND_0069905,48,0.6928,Applied ML Engineer with 6.6 yrs exp; technical profile alignment matches 60.0%.
+CAND_0066999,49,0.6915,Recommendation Systems Engineer with 5.9 yrs exp; technical profile alignment matches 59.1%.
+CAND_0093331,50,0.6915,NLP Engineer with 16.1 yrs exp; technical profile alignment matches 60.7%.
+CAND_0011643,51,0.6914,AI Research Engineer with 4.2 yrs exp; technical profile alignment matches 58.0%.
+CAND_0020708,52,0.6904,Search Engineer with 4.2 yrs exp; technical profile alignment matches 58.0%.
+CAND_0053695,53,0.69,Recommendation Systems Engineer with 5.8 yrs exp; technical profile alignment matches 62.7%.
+CAND_0093547,54,0.6888,Senior Machine Learning Engineer with 2.9 yrs exp; technical profile alignment matches 62.5%.
+CAND_0011432,55,0.6872,Senior Data Scientist with 7.6 yrs exp; technical profile alignment matches 58.6%.
+CAND_0044222,56,0.687,AI Engineer with 7.7 yrs exp; technical profile alignment matches 62.5%.
+CAND_0046525,57,0.6865,Senior Machine Learning Engineer with 6.1 yrs exp; technical profile alignment matches 60.0%.
+CAND_0050876,58,0.6863,Applied ML Engineer with 6.0 yrs exp; technical profile alignment matches 58.7%.
+CAND_0005260,59,0.6861,Senior NLP Engineer with 5.2 yrs exp; technical profile alignment matches 60.6%.
+CAND_0031593,60,0.6858,Search Engineer with 7.8 yrs exp; technical profile alignment matches 61.4%.
+CAND_0024878,61,0.6857,AI Specialist with 5.7 yrs exp; technical profile alignment matches 57.5%.
+CAND_0013536,62,0.6855,Applied ML Engineer with 14.1 yrs exp; technical profile alignment matches 58.9%.
+CAND_0080465,63,0.685,ML Engineer with 4.2 yrs exp; technical profile alignment matches 55.6%.
+CAND_0081852,64,0.6849,Senior Data Scientist with 5.9 yrs exp; technical profile alignment matches 61.1%.
+CAND_0073883,65,0.6843,AI Specialist with 5.3 yrs exp; technical profile alignment matches 56.4%.
+CAND_0064326,66,0.6841,Search Engineer with 7.6 yrs exp; technical profile alignment matches 57.4%.
+CAND_0030348,67,0.684,Machine Learning Engineer with 4.5 yrs exp; technical profile alignment matches 60.4%.
+CAND_0093912,68,0.6839,Senior Data Scientist with 5.3 yrs exp; technical profile alignment matches 55.2%.
+CAND_0037566,69,0.6838,Machine Learning Engineer with 6.9 yrs exp; technical profile alignment matches 56.3%.
+CAND_0020350,70,0.6835,AI Engineer with 5.8 yrs exp; technical profile alignment matches 60.9%.
+CAND_0057701,71,0.6833,Recommendation Systems Engineer with 4.1 yrs exp; technical profile alignment matches 60.1%.
+CAND_0043381,72,0.6832,AI Research Engineer with 3.6 yrs exp; technical profile alignment matches 57.8%.
+CAND_0043829,73,0.6832,AI Research Engineer with 4.8 yrs exp; technical profile alignment matches 58.1%.
+CAND_0042506,74,0.6824,Search Engineer with 4.2 yrs exp; technical profile alignment matches 60.1%.
+CAND_0007460,75,0.6817,AI Engineer with 4.7 yrs exp; technical profile alignment matches 60.3%.
+CAND_0009691,76,0.6816,Applied ML Engineer with 6.2 yrs exp; technical profile alignment matches 58.1%.
+CAND_0040887,77,0.6813,Machine Learning Engineer with 4.7 yrs exp; technical profile alignment matches 54.9%.
+CAND_0010685,78,0.6811,NLP Engineer with 6.7 yrs exp; technical profile alignment matches 59.3%.
+CAND_0024466,79,0.6809,Search Engineer with 5.2 yrs exp; technical profile alignment matches 63.3%.
+CAND_0095619,80,0.6808,NLP Engineer with 15.6 yrs exp; technical profile alignment matches 55.5%.
+CAND_0083852,81,0.6806,Data Scientist with 6.0 yrs exp; technical profile alignment matches 54.9%.
+CAND_0012957,82,0.68,Search Engineer with 4.9 yrs exp; technical profile alignment matches 61.8%.
+CAND_0086151,83,0.6797,Recommendation Systems Engineer with 7.7 yrs exp; technical profile alignment matches 61.6%.
+CAND_0098454,84,0.6793,AI Specialist with 6.6 yrs exp; technical profile alignment matches 56.5%.
+CAND_0028422,85,0.6787,Junior ML Engineer with 5.5 yrs exp; technical profile alignment matches 53.1%.
+CAND_0058688,86,0.6785,AI Engineer with 6.7 yrs exp; technical profile alignment matches 56.6%.
+CAND_0085335,87,0.6785,ML Engineer with 3.1 yrs exp; technical profile alignment matches 55.4%.
+CAND_0007008,88,0.6783,Senior Software Engineer (ML) with 3.7 yrs exp; technical profile alignment matches 57.6%.
+CAND_0034164,89,0.6783,Data Scientist with 3.6 yrs exp; technical profile alignment matches 55.5%.
+CAND_0017918,90,0.6782,ML Engineer with 3.2 yrs exp; technical profile alignment matches 56.3%.
+CAND_0054318,91,0.6781,AI Research Engineer with 3.5 yrs exp; technical profile alignment matches 55.2%.
+CAND_0061655,92,0.6778,Machine Learning Engineer with 4.6 yrs exp; technical profile alignment matches 58.4%.
+CAND_0081686,93,0.6774,Search Engineer with 6.0 yrs exp; technical profile alignment matches 61.5%.
+CAND_0098846,94,0.6772,AI Engineer with 7.6 yrs exp; technical profile alignment matches 55.0%.
+CAND_0005538,95,0.677,Senior AI Engineer with 5.9 yrs exp; technical profile alignment matches 53.9%.
+CAND_0054546,96,0.6766,AI Research Engineer with 4.9 yrs exp; technical profile alignment matches 53.2%.
+CAND_0000031,97,0.6765,Recommendation Systems Engineer with 6.0 yrs exp; technical profile alignment matches 62.4%.
+CAND_0096142,98,0.676,Applied ML Engineer with 5.0 yrs exp; technical profile alignment matches 54.7%.
+CAND_0047521,99,0.6759,Junior ML Engineer with 4.4 yrs exp; technical profile alignment matches 54.8%.
+CAND_0059504,100,0.6757,Junior ML Engineer with 3.3 yrs exp; technical profile alignment matches 56.5%.
